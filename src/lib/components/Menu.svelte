@@ -3,6 +3,7 @@
     <li><a href="/">Home</a></li>
     <li><a href="/sportarten">Sportarten</a></li>
     <li><a href="/kontakt">Kontakt</a></li>
+    <li><a href="/bilder">Bilder</a></li>
   </ul>
 </nav>
 
